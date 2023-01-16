@@ -1,0 +1,2 @@
+# latihanGIT
+latihan GIT sendiri
